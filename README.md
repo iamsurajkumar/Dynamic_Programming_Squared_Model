@@ -4,4 +4,6 @@ This repository contains the python code for Dynamic Programming Squared Model o
 
 For more theory and computation of Dynamic Squared Models, please refer to jupyter notebook "dynamic programming squared model.ipynb". For full mathematical analysis, please refer to pdf "dynamic programming squared model.pdf" .
 
-NOTE: As this is work in progress, so this repository will be periodically updated.
+NOTE: 
+1. As this is work in progress, so this repository will be periodically updated.
+2. For constrained optimization, Scipy.minimize function has been used
